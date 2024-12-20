@@ -5,6 +5,26 @@ const Home = () => {
     <div>
       <h1>Welcome to the Home Page</h1>
       <p>bayota ninyo oe</p>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
+      <>mga bayot</>
+      <br></br>
     </div>
   );
 };
